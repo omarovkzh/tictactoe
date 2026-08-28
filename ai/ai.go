@@ -1,6 +1,6 @@
 package ai
 
-import "github.com/team/tic-tac-toe-arena/internal/board"
+import "github.com/omarov-kzh/tictactoe/internal/board"
 
 type Move struct {
 	Cell   int

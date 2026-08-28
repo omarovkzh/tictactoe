@@ -3,7 +3,7 @@ package ai
 import (
 	"testing"
 
-	"github.com/team/tic-tac-toe-arena/internal/board"
+	"github.com/omarov.kzh/tictactoe/internal/board"
 )
 
 func TestChooseMatchesSpecificationExamples(t *testing.T) {
