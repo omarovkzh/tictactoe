@@ -1,3 +1,3 @@
-module github.com/team/tic-tac-toe-arena
+module github.com/omarov.kzh/tictactoe
 
 go 1.22

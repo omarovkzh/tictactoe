@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/team/tic-tac-toe-arena/internal/cli"
-	"github.com/team/tic-tac-toe-arena/internal/game"
+	"github.com/omarov.kzh/tictactoe/internal/cli"
+	"github.com/omarov.kzh/tictactoe/internal/game"
 )
 
 func main() {

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/team/tic-tac-toe-arena/internal/ai"
-	"github.com/team/tic-tac-toe-arena/internal/board"
-	"github.com/team/tic-tac-toe-arena/internal/cli"
+	"github.com/omarov.kzh/tictactoe/internal/ai"
+	"github.com/omarov.kzh/tictactoe/internal/board"
+	"github.com/omarov.kzh/tictactoe/internal/cli"
 )
 
 type Game struct {
